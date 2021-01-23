@@ -1,4 +1,4 @@
-## Deep learning with computer vision guide
+## Artificial intelligence for detecting C-shaped canal morphology of mandibular second molar from periapical radiographs in South Indian population
 
 ### Markdown
 
